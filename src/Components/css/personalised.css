@@ -1,0 +1,17 @@
+.Alleft{
+    text-align: left;
+}
+
+.Contitle{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+*{
+    font-size: large;
+}
+
+.logo{
+    height: 50px;
+    width: 100px
+
+}

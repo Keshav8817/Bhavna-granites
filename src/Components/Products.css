@@ -1,0 +1,87 @@
+/* 
+
+
+
+
+.containerImg{
+    position: relative; 
+    width:450px;
+
+
+
+}
+
+.imgs{
+position: absolute;
+object-fit: cover;
+}
+
+.btn{
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 145px;
+
+    
+}
+ */
+ .modal-header{
+     background-color:black;
+     border-bottom: 1px double white !important;
+     height: 4px;
+ }
+
+ .modal-dialog{
+    max-width: 100% !important;
+    width:600px !important;
+
+
+
+ }
+ .modal-body{
+     background-color: rgb(8, 0, 0);
+ }
+
+
+
+ .carousel-caption {
+    background-color:black;
+    max-width: 100%;
+      width:100%;
+      left:0!important;
+      bottom: 0 !important;
+      opacity: .7;
+
+  }
+
+
+
+  .carousel-caption h5{
+      
+      color: white;
+      font-size: 25px;
+
+  }
+
+  .carousel-control-prev-icon{
+        background-color: black;
+        width:100px !important;
+        height: 70px !important;
+        opacity: .7;
+
+}
+
+.carousel-control-next-icon{
+        background-color: black;
+        width:100px !important;
+        height: 70px !important;
+        opacity: .7;
+
+}
+
+
+
+
+
+  
+  
+ 

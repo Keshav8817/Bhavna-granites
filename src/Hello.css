@@ -1,0 +1,61 @@
+.carousel-inner{
+    width: 5%;
+    max-height: 99vh;
+}
+.carousel-item{
+    position: relative;
+    
+}
+.carousel-inner .carousel-item .kit-img{
+    object-fit: fill !important;
+    width: 100% !important;
+    height: 700px !important;
+    
+}
+@media (max-width:700px){
+    #im {object-fit: fill !important;
+        width: 100% !important;
+        height: 200px !important;}
+}
+.temp-logo{
+    position: relative;
+    
+}
+.template-main-menu {
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: 10.3%;
+    display: initial;
+    right: 0;
+    left: 30;
+    
+    
+}
+.temp-logo{
+    position: fixed;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    width: 10%;
+    height: 10.3%;
+    display: initial;
+    padding-top: 10px;
+
+    
+}
+.container1{
+    padding-top: 70px;
+    padding-bottom: 50px;
+    background-color: rgba(255, 255, 255, 0.918);
+}
+.header-links a{
+    text-decoration: none;
+    /* underline: {textDecorationLine: 'underline'} */
+    /* text-underline-offset: initial; */
+}
+.header-links a:hover{
+    text-decoration: underline;
+}
+.logo-area{
+    
+}

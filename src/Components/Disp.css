@@ -1,0 +1,36 @@
+ul li{
+    text-decoration: none;
+}
+.Contitle{
+max-width:1340px ;
+}
+textarea::placeholder{
+    color:rgba(255,255,255,1);
+    font-size:1.8rem;
+}
+.Contitle1{
+
+    max-width:1340px ;
+    padding-bottom: 0%;
+
+}
+.Contitle2{
+    max-width:1340px ;
+
+}
+.Contitle3{
+    max-width:1340px ;
+
+}
+#footer-loo{
+    max-block-size: 10rem;
+    margin: 0%;
+}
+
+#end-note{
+    color: white;
+}
+
+#result-text{
+    color: white
+}
